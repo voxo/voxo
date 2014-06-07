@@ -15,7 +15,7 @@ VOXO offers you freedom.
 
 BASIC QUESTIONS ABOUT VOXO
 -------
-WHY VOXO?
+Q : WHY VOXO?
 
 Answer;
 Why do people work to make and sell a product although same products?
@@ -24,16 +24,18 @@ Each framework has its own unique ease.
 I wanted see some features and amenities in other frameworks but now voxo have these features and amenities.. 
 
 
-Is a VOXO Micro Framework?
-Cevap;
+Q : Is a VOXO Micro Framework?
+
+Answer;
 This is the location in the first place.
 
-Will be continuously improve in VOXO?
-Cevap;
+Q : Will be continuously improve in VOXO?
+
+Answer;
 ### Until death do us part.. :)
 
 
-STANDARTLAR VE ÇALIŞMALAR;
+STANDARTLAR VE ÇALIŞMALAR
 -------
 Fonksiyon isimleri her kelimesinin ilk harfleri büyük olacak. 
 Dizin ve Dosya isimlerinde tüm harfler küçük. 
